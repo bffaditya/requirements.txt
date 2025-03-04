@@ -1,10 +1,10 @@
 replicate
 requests
 os
-from PIL import Image, ImageDraw, ImageFont, ImageEnhance
+PIL Image, ImageDraw, ImageFont, ImageEnhance
 rembg
 pyrogram
-pyrogram import Client, filters
+pyrogram Client, filters
 random
 tgcrypto
 
