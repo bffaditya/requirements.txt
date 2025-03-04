@@ -1,12 +1,12 @@
-import replicate
-import requests
-import os
+replicate
+requests
+os
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance
-import rembg
-import pyrogram
-from pyrogram import Client, filters
-import random
-import tgcrypto
+rembg
+pyrogram
+pyrogram import Client, filters
+random
+tgcrypto
 
 # 🔹 API KEYS SETUP
 REPLICATE_API_TOKEN = "r8_bUsYZyxQZS6r8WvqzYQ98qu9my842KG08X8FS"
